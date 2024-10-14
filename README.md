@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuigiZwei
 - 👀 I’m interested in programming apps, tools, mods
-- 🌱 I’m currently learning minecraft modding, C#, Java
+- 🌱 I’m currently learning minecraft modding, C#, Java, Python, Docker, Networks
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
